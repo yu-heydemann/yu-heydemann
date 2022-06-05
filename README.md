@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The way to Fullstack!
+The way to Fullstack and Software Engineer !
 
 <!--
 **momomi/momomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
