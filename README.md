@@ -33,19 +33,21 @@
  
 <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg",
+<img src="https://github.com/momomi/momomi/blob/main/svg/nodejs.svg",
  alt= node.js", style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg",
+<img src="https://github.com/momomi/momomi/blob/main/svg/java.svg",
  alt= java", style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg",
+ 
+
+<img src="https://github.com/momomi/momomi/blob/main/svg/go.svg",
  alt= go", style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg",
+<img src="https://github.com/momomi/momomi/blob/main/svg/python.svg",
  alt= python", style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg",
+<img src="https://github.com/momomi/momomi/blob/main/svg/js.svg",
  alt= js", style="vertical-align:top; margin:4px">
 
 
