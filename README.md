@@ -23,34 +23,34 @@
 
 </p>
 
-<!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges> -->
+
 ### - Languages and Frameworks
 
 <p align="center">
+  <!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges> -->
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="angular" style="vertical-align:top; margin:4px">    
+  <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
+  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="angular"  style="vertical-align:top; margin:4px">    
   
  
-<!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
-
-<img src="https://github.com/momomi/momomi/blob/main/svg/nodejs.svg",
- alt= "node.js", style="vertical-align:top; margin:4px">
-
-<img src="https://github.com/momomi/momomi/blob/main/svg/java.svg",
- alt= "java", style="vertical-align:top; margin:4px">
-
- 
-
-<img src="https://github.com/momomi/momomi/blob/main/svg/go.svg",
- alt= "go", style="vertical-align:top; margin:4px">
-
-<img src="https://github.com/momomi/momomi/blob/main/svg/python.svg",
- alt= "python", style="vertical-align:top; margin:4px">
-
-<img src="https://github.com/momomi/momomi/blob/main/svg/js.svg",
- alt= "js", style="vertical-align:top; margin:4px">
 
 
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/nodejs.svg",
+   alt= "node.js", style="vertical-align:top; margin:4px">
+
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/java.svg",
+   alt= "java", style="vertical-align:top; margin:4px">
+
+
+
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/go.svg",
+   alt= "go", style="vertical-align:top; margin:4px">
+
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/python.svg",
+   alt= "python", style="vertical-align:top; margin:4px">
+
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/js.svg",
+  alt= "js", style="vertical-align:top; margin:4px">
 </p>
 
 
