@@ -23,7 +23,17 @@
 
 </p>
 
+### - Languages and Frameworks
+<p align=center">
 
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="/Users/momo/momomi/svg/Angular.svg" alt="html" style="vertical-align:top; margin:4px">    
+  
+</p>
+
+
+</p>
  
 <!--
 **momomi/momomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
