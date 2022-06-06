@@ -25,16 +25,36 @@
 
 <!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges>
 ### - Languages and Frameworks
-<p align=center">
+<p align=center"> -->
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="angular" style="vertical-align:top; margin:4px">    
   
-</p>
+ 
+<!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg",
+ alt= node.js", style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg",
+ alt= java", style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg",
+ alt= go", style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg",
+ alt= python", style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg",
+ alt= js", style="vertical-align:top; margin:4px">
+
+
 
 
 </p>
+
+
  
 <!--
 **momomi/momomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
