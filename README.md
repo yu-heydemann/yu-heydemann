@@ -34,21 +34,21 @@
 <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
 
 <img src="https://github.com/momomi/momomi/blob/main/svg/nodejs.svg",
- alt= node.js", style="vertical-align:top; margin:4px">
+ alt= "node.js", style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/momomi/momomi/blob/main/svg/java.svg",
- alt= java", style="vertical-align:top; margin:4px">
+ alt= "java", style="vertical-align:top; margin:4px">
 
  
 
 <img src="https://github.com/momomi/momomi/blob/main/svg/go.svg",
- alt= go", style="vertical-align:top; margin:4px">
+ alt= "go", style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/momomi/momomi/blob/main/svg/python.svg",
- alt= python", style="vertical-align:top; margin:4px">
+ alt= "python", style="vertical-align:top; margin:4px">
 
 <img src="https://github.com/momomi/momomi/blob/main/svg/js.svg",
- alt= js", style="vertical-align:top; margin:4px">
+ alt= "js", style="vertical-align:top; margin:4px">
 
 
 </p>
