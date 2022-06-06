@@ -7,7 +7,7 @@
  
  
 <div align="center">
-<h1>Full Stack | Typescript | Competitive Programming</a> </h1>
+<h1>Full Stack | Java Springboot | Competitive Programming</a> </h1>
 </div>
 
 
