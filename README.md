@@ -23,12 +23,13 @@
 
 </p>
 
+<!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges>
 ### - Languages and Frameworks
 <p align=center">
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://github.com/momomi/momomi/blob/main/svg/Angular.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="html" style="vertical-align:top; margin:4px">    
   
 </p>
 
