@@ -35,18 +35,18 @@
  
 
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/nodejs.svg",
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/nodejs.svg",
    alt= "node.js", style="vertical-align:top; margin:4px">
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/java.svg",
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/java.svg",
    alt= "java", style="vertical-align:top; margin:4px">
 
 
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/go.svg",
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/go.svg",
    alt= "go", style="vertical-align:top; margin:4px">
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/python.svg",
+  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/python.svg",
    alt= "python", style="vertical-align:top; margin:4px">
 
   <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/js.svg",
