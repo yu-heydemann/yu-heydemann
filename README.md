@@ -23,9 +23,8 @@
 
 </p>
 
-<!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges>
+<!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges> -->
 ### - Languages and Frameworks
-<p align=center"> -->
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -48,8 +47,6 @@
 
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg",
  alt= js", style="vertical-align:top; margin:4px">
-
-
 
 
 </p>
