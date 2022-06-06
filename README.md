@@ -1,17 +1,17 @@
 <div align="center">
-
-
 <h1>Hi there, I'm <a >Momo</a> </h1>
-   
-
 </div>
 
 
  - :heart: ✨ _special_ ✨ 
  
- <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
+ 
+<div align="center">
+<h1>Full Stack | Typescript | Competitive Programming</a> </h1>
+</div>
+
+
+
 
 <!--  -->
 
