@@ -35,21 +35,21 @@
  
 
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/nodejs.svg",
+  <img src=" https://github.com/momomi/momomi/blob/a064832718df0df23e387acf4a284b772693a5dc/svg/nodejs.svg",
    alt= "node.js", style="vertical-align:top; margin:4px">
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/java.svg",
+  <img src=" https://github.com/momomi/momomi/blob/a064832718df0df23e387acf4a284b772693a5dc/svg/java.svg",
    alt= "java", style="vertical-align:top; margin:4px">
 
 
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/go.svg",
+  <img src=" https://github.com/momomi/momomi/blob/a064832718df0df23e387acf4a284b772693a5dc/svg/go.svg",
    alt= "go", style="vertical-align:top; margin:4px">
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/master/svg/python.svg",
+  <img src=" https://github.com/momomi/momomi/blob/a064832718df0df23e387acf4a284b772693a5dc/svg/python.svg",
    alt= "python", style="vertical-align:top; margin:4px">
 
-  <img src=" https://raw.githubusercontent.com/momomi/momomi/main/svg/js.svg",
+  <img src=" https://github.com/momomi/momomi/blob/a064832718df0df23e387acf4a284b772693a5dc/svg/js.svg",
   alt= "js", style="vertical-align:top; margin:4px">
 </p>
 
