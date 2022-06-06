@@ -39,7 +39,14 @@
   
 </p>
 
+### - What i try to do
 
+<br />
+
+<p align="center">
+   
+   <img src="https://github.com/momomi/momomi/blob/main/svg/earth-ending-meteorite.gif">
+   </p>
  
 <!--
 **momomi/momomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
