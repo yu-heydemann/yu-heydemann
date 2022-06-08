@@ -25,22 +25,6 @@
   <!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges> -->
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
-  -->
-
-  
- <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="angular"  style="vertical-align:top; margin:4px">    
- 
-</p>
-
-
-
-
-
-
-</p>
-
-
-
 
 ### - What i try to do
 
