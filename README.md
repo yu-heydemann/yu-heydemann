@@ -18,23 +18,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-<!--  -->
- ### - Languages and Frameworks
 
-<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=momomi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Momo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> 
+ 
+<!-- <p align="center">
   <!--https://shields.io/ builder ， and the more icons from https://github.com/MikeCodesDotNET/ColoredBadges> -->
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
- 
+  -->
+
   
  <img src="https://github.com/angular/angular/blob/main/aio/src/assets/images/logos/angular/angular.png" alt="angular"  style="vertical-align:top; margin:4px">    
-
-
-
-  
+ 
 </p>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=momomi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Momo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+
+
 
 
 
