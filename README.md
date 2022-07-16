@@ -29,14 +29,16 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <!-- add the icons from Mike James , the beautifully icons https://github.com/MikeCodesDotNET/ColoredBadges> -->
 
-### - What i try to do
+
+<!-- ### - What i try to do
 
 <br />
 
 <p align="center">
    
    <img src="https://github.com/momomi/momomi/blob/main/svg/earth-ending-meteorite.gif">
-   </p>
+   </p>         >
+
  
 
 <h1 align='center'>⚡️<i>You are awesome!</i>⚡️</h1>
