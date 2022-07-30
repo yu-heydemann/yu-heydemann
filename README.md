@@ -3,7 +3,7 @@
  <h2> :dart: On the way to Fullstack </h2>
 </div>
 
-
+<!--  
  - :heart: ✨ _special_ ✨ 
  
  
@@ -63,3 +63,4 @@ Here are some ideas to get you started:
 
 <!--### Hi there 👋
 -:heart: The way to Fullstack and Software Engineer !
+-->
