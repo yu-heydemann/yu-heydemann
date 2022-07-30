@@ -4,17 +4,17 @@
 
 
 ### Skills:
-* Java
-* Go
-* Angular
-* React
-* React Native
-* JS
-* ES6
-* TS
-* Node.js
-* Webpak
-* CI/CD
-* Openshift
+- [x] Java
+- [x] Angular
+- [x] React
+- [x] React Native
+- [x] JS
+- [ ] ES6
+- [x] TS
+- [ ] Node.js
+- [ ] Webpack
+- [ ] Webpack
+- [ ] Webpack
+
 </div>
 
