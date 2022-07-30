@@ -3,8 +3,7 @@
  <h2> :dart: On the way to Fullstack </h2>
 
 
-***
-Skills:
+### Skills:
 * Java
 * Go
 * Angular
