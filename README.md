@@ -12,9 +12,9 @@
 - [ ] ES6
 - [x] TS
 - [ ] Node.js
-- [ ] Webpack
-- [ ] Webpack
-- [ ] Webpack
+- [ ] CI/CD
+- [ ] Jira
+- [ ] Springboot
 
 </div>
 
