@@ -1,20 +1,26 @@
 <div align="center">
 <h1>Hi there, I'm <a >Momo</a> </h1>
  <h2> :dart: On the way to Fullstack </h2>
-
-
-### Skills:
-- [x] Java
-- [x] Angular
-- [x] React
-- [x] React Native
-- [x] JS
-- [ ] ES6
-- [x] TS
-- [ ] Node.js
-- [ ] CI/CD
-- [ ] Jira
-- [ ] Springboot
-
 </div>
+
+👋 My name is <strong> Yu Heydemann(Momo)</strong>. 
+
+![](https://komarev.com/ghpvc/?username=MomoSolaris8)
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=cw1997&show_icons=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cw1997&layout=compact" />
+  </td>
+</tr>
+
+   
+
+   
+
+   
+
 
