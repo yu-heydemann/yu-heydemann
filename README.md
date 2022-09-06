@@ -3,7 +3,7 @@
  <h2> :dart: On the way to Web Developer </h2>
 </div>
 
-👋 My name is <strong> Yu Heydemann(Momo)</strong>. 
+👋 My name is <strong> Momo</strong>. 
 
 ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
