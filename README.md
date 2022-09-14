@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm <a >Momo</a> </h1>
- <h2> :dart: On the way to Web Developer </h2>
+ <h2> :dart: On the way to Software Engineering </h2>
 </div>
 
 👋 My name is <strong> Momo</strong>. 
