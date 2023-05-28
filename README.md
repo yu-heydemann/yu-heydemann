@@ -1,15 +1,7 @@
 # Welcome to my profile 🔆 🌩️
-I'm Momo 🎯 On the way to Software Engineering
+I'm Momo 🎯 On the way to Software Engineering. ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
-
-![](https://komarev.com/ghpvc/?username=MomoSolaris8)
-
-
- # Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/MomoSolaris8/MomoSolaris8/blob/output/github-contribution-grid-snake.gif)
-
-
-
 
 <table align="center">
 <tr>
