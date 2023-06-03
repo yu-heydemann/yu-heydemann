@@ -8,11 +8,11 @@
            |￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|
            |  Momo will become  a full-stack developer!   | 
            |＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿|
-                          \ (•◡•)/  
-                          \      / 
-                        ——
-                         |     |
-                          | _   |_
+           \ (•◡•)/  
+           \      / 
+              ——
+           |     |
+           | _   |_
 ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
 ![snake gif](https://github.com/MomoSolaris8/MomoSolaris8/blob/output/github-contribution-grid-snake.gif)
