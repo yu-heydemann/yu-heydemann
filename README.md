@@ -2,13 +2,19 @@
 
 <div align="center">
 <h1> 🔆 🌩️ Hi there, I'm <a >Momo :dart: On the way to Software Engineering</a> </h1>
-
+ 
 ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
+ 
 ## Github Stats 📊 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoSolaris8)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px">
-
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MomoSolaris8" alt="Anurag's GitHub stats" width="45%">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="45%">
+  </a>
+</div>
 
   
  💼 Skills
