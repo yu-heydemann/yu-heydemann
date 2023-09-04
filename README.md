@@ -7,7 +7,8 @@
 
 ## Github Stats 📊 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoSolaris8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="500px">
+
 
   
  💼 Skills
