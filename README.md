@@ -5,7 +5,9 @@
 
 ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
-
+## Github Stats 📊 <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoSolaris8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
  💼 Skills
