@@ -5,17 +5,9 @@
  
 ![](https://komarev.com/ghpvc/?username=MomoSolaris8)
 
-## Github Stats 📊 <br>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MomoSolaris8&theme=tokyonight" alt="Anurag's GitHub stats" width="45%" height="195px">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-nu-ecru.vercel.app/api/top-langs/?username=MomoSolaris8&layout=compact&theme=tokyonight&langs_count=20&hide_border=true&cache_seconds=14400&custom_title=Top%20Languages&disable_animations=true" alt="Igor&#39;s Top Languages Used" width="45%" height="195px">
-  </a>
-</div>
 
 
+[![momoSolaris8's GitHub | Languages Over Time](https://stats.quine.sh/momoSolaris8/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=momoSolaris8)
   
  💼 Skills
  
