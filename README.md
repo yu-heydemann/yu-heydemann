@@ -7,7 +7,6 @@
 
 
 
-[![momoSolaris8's GitHub | Languages Over Time](https://stats.quine.sh/momoSolaris8/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=momoSolaris8)
   
  💼 Skills
  
